@@ -1,4 +1,7 @@
 # pr2
+Хмырин Алексей Андреевич
+ЭФБО-02-22
+Практическая 2
 ![image](https://github.com/user-attachments/assets/fa9c63ae-94d6-47ce-a7b9-e9d866cfc25b)
 
 A new Flutter project.
